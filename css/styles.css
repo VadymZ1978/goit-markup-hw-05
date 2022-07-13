@@ -280,7 +280,6 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-
   cursor: pointer;
 }
 
@@ -670,8 +669,9 @@ img {
 
 .footer-container {
   display: flex;
-  flex-direction: row;
-  align-items: flex-start;
+
+  
+  text-align: left;
 }
 
 .footer-logo-container {
